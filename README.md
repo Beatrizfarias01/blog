@@ -28,9 +28,6 @@ Projeto desenvolvido para portfólio, com foco em boas práticas de arquitetura 
 ##  Como rodar localmente
 
 \```bash
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/blog.git
-cd blog
 
 # Instale as dependências
 npm install
