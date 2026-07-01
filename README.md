@@ -2,11 +2,11 @@
 
 Blog pessoal fullstack desenvolvido do zero com Next.js, TypeScript, Prisma e PostgreSQL.
 
-## 💡 Sobre o projeto
+##  Sobre o projeto
 
 Projeto desenvolvido para portfólio, com foco em boas práticas de arquitetura fullstack utilizando o App Router do Next.js. O sistema conta com área pública para leitura dos posts e painel administrativo protegido para gerenciamento de conteúdo.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Listagem de posts publicados na home
 - Página individual de cada post com rota dinâmica por slug
@@ -15,7 +15,7 @@ Projeto desenvolvido para portfólio, com foco em boas práticas de arquitetura 
 - Login e logout com NextAuth (JWT)
 - Geração automática de slug a partir do título
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Next.js 15** — App Router, SSR, SSG, rotas dinâmicas
 - **TypeScript** — tipagem em todo o projeto
@@ -25,7 +25,7 @@ Projeto desenvolvido para portfólio, com foco em boas práticas de arquitetura 
 - **Tailwind CSS** — estilização
 - **Vercel** — deploy e hospedagem
 
-## 🚀 Como rodar localmente
+##  Como rodar localmente
 
 \```bash
 # Clone o repositório
@@ -63,6 +63,5 @@ prisma/
 
 ##  Autora
 **Beatriz Faria** — estudante de Eng. da Computação na FAINOR, apaixonada por desenvolvimento fullstack.
-**Beatriz Faria** — estudante de [seu curso] na FAINOR, apaixonada por desenvolvimento fullstack.
 
 [GitHub](https://github.com/SEU_USUARIO)
